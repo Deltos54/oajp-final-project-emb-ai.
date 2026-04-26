@@ -35,3 +35,5 @@ This project is an Emotion Detection system built using Python and IBM Watson NL
   "sadness": 0.01,
   "dominant_emotion": "joy"
 }
+
+# Final Project: Emotion Detection Application
